@@ -1,5 +1,5 @@
 # nodejs-start
-nodejs设置server代码，具体在server文件夹中
+nodejs创建server代码，具体在server文件夹中，具体的学习内容在代码中都有注释，关于自己的一些简单的感悟在server文件夹下的readme文件里有记录。
 
 > A Vue.js project
 
